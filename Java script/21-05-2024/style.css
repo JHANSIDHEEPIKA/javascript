@@ -1,0 +1,14 @@
+.heading{
+    text-align: center;
+    text-decoration: underline;
+    color: crimson;
+}
+p{
+    text-align: center;
+    line-height: 25px;
+}
+h2{
+    text-align: center;
+    color: darkblue;
+    text-decoration: underline;
+}

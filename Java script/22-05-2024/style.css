@@ -1,0 +1,23 @@
+*{
+    background-color: cornsilk;
+}
+.heading{
+    text-align: center;
+    text-decoration: underline;
+    color: darkblue;
+}
+h2{
+    text-decoration: underline;
+    color: crimson;
+}
+h4{
+    text-decoration: underline;
+    color: darkgreen;
+}
+p{
+    color: darkmagenta;
+}
+ul{
+    color: darkmagenta;
+ 
+}
